@@ -1,1 +1,3 @@
 první text v souboru newfile.txt.
+nový text o tom jak využívat git.
+tøetí øádek.
