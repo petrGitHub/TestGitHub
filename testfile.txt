@@ -1,2 +1,3 @@
 toto je testovaci soubor pro Github
 ...
+nový øádek do testovacího souboru.
